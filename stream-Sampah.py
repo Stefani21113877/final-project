@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 from PIL import Image
 from tensorflow.keras.preprocessing.image import img_to_array
 import tensorflow as tf
